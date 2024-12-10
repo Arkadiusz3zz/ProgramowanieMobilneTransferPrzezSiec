@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "412293586473",
+    "project_id": "transferprzezsiec-c252d",
+    "storage_bucket": "transferprzezsiec-c252d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412293586473:android:7abf020409f8d893578638",
+        "android_client_info": {
+          "package_name": "com.example.transferprzezsiec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412293586473-prsqoepjd40fkig351b7p1kvkf9vmtam.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.transferprzezsiec",
+            "certificate_hash": "a46b1f2bb9914f8e0032838876324183e9841f79"
+          }
+        },
+        {
+          "client_id": "412293586473-ublbihb3bdeoiv4hjvavtoomjbfbh2vd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbuKsBzlIekica4VwruQIPl1J4F4kozHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412293586473-qqq2hbqnpf627p8ktkefe95dhl0aoa36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
